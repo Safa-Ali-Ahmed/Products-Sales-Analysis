@@ -68,3 +68,6 @@ The project was built based on a **Business & Functional Requirement Document (B
 ---
 
 ## 📸 Dashboard Preview
+<img width="1399" height="671" alt="1" src="https://github.com/user-attachments/assets/ad3b0c0d-84ef-4eef-a511-ee56b4db9a95" />
+<img width="1396" height="663" alt="2" src="https://github.com/user-attachments/assets/09c4896a-aa06-498f-a9cb-663db2b5dc89" />
+<img width="1391" height="668" alt="3" src="https://github.com/user-attachments/assets/4488c28e-6550-4e3a-a7c0-fe70338549f3" />
