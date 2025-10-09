@@ -68,7 +68,9 @@ The project was built based on a **Business & Functional Requirement Document (B
 ---
 
 ## 📸 Dashboard Preview
-you can interact with dashboard from here:https://app.powerbi.com/groups/me/reports/ff735602-6ec8-4755-aed4-27c0db086867/0a5cfd9651f9ff7dd719?experience=power-bi&bookmarkGuid=1d831e0ca885a603e57e
-<img width="1399" height="671" alt="1" src="https://github.com/user-attachments/assets/ad3b0c0d-84ef-4eef-a511-ee56b4db9a95" />
-<img width="1396" height="663" alt="2" src="https://github.com/user-attachments/assets/09c4896a-aa06-498f-a9cb-663db2b5dc89" />
-<img width="1391" height="668" alt="3" src="https://github.com/user-attachments/assets/4488c28e-6550-4e3a-a7c0-fe70338549f3" />
+you can interact with dashboard from here:[https://app.powerbi.com/groups/me/reports/ff735602-6ec8-4755-aed4-27c0db086867/0a5cfd9651f9ff7dd719?experience=power-bi&bookmarkGuid=1d831e0ca885a603e57e](https://app.powerbi.com/groups/me/reports/ff735602-6ec8-4755-aed4-27c0db086867/0a5cfd9651f9ff7dd719?experience=power-bi)
+<img width="1741" height="816" alt="2" src="https://github.com/user-attachments/assets/0af939ad-a08e-4a7d-a49e-922728b022d8" />
+<img width="1740" height="817" alt="3" src="https://github.com/user-attachments/assets/b09b2ee7-0319-4843-b3d6-4a297958a361" />
+<img width="1736" height="817" alt="4" src="https://github.com/user-attachments/assets/70725a64-fdc9-4ecb-a6b6-c5114958e823" />
+<img width="1466" height="822" alt="5" src="https://github.com/user-attachments/assets/7eb99546-60e4-41bd-a82a-d707cb7e3c46" />
+
